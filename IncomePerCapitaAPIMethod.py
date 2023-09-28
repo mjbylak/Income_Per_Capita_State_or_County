@@ -58,7 +58,7 @@ class BEAIncomeData:
 
 # Usage
 if __name__ == "__main__":
-    api_key = "2D432EEE-132D-40B3-90B2-427AA7773174"
+    api_key = "Your-36CharacterKey"
     bea_data = BEAIncomeData(api_key)
 
     # Default values
