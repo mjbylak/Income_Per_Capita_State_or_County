@@ -1,6 +1,5 @@
-**Title:** BEA Income Data API Python Client
+**Description:**   
 
-**Description:**
 This Python client provides a convenient way to access and retrieve income data from the Bureau of Economic Analysis (BEA) API. The client allows you to fetch per capita personal income data for specific states or counties, making it useful for economic analysis, research, and data-driven decision-making.
 
 **Features:**
@@ -20,11 +19,8 @@ This Python client provides a convenient way to access and retrieve income data 
 - Requests library for making API requests
 - XML parsing using the ElementTree library
 
-**Note:**
+**Note:**  
 Replace "Your-36CharacterKey" with your actual BEA API key, and refer to the BEA API documentation for dataset and table names.
 
-**Contributions and Issues:**
-Contributions and issue reports are welcome! Feel free to fork and contribute to enhance the functionality or report any issues you encounter while using the client.
-
-**License:**
+**License:**  
 This project is open-source and available under the MIT License.
